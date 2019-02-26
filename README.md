@@ -5,4 +5,4 @@ Coding Exercise To Display Cards From The Magic API w/ jQuery &amp; AJAX
 
  To view this application either download and install the wordpress plugin, download and view the HTML file, or visit:
 
- GOTO http://iamtomcallahan.com/?magic=yes
+<a href="http://iamtomcallahan.com/?magic=yes" target="_blank">iamtomcallahan.com/?magic=yes</a>
